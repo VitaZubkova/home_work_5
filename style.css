@@ -68,19 +68,20 @@ a{
 .news_block{
 	display: block;
 	width: 100%;
-	margin: 5% 7%;
+	margin: 5% 7% ;
 }
 .news{
 	text-align: center;
 	width: 28%;
 	padding-left: 45px;
+	margin-bottom: 80px;
 	
 }
 .img-circle{
 	width: 150px;
 	height: 150px;
 }
-.ander_image{
+.under_image{
 	font-size: 25px;
 }
 .btn-default{
@@ -98,7 +99,7 @@ a{
 }
 
 .col-xs-6{
-	padding: 60px 45px;
+	padding: 30px 45px;
 }
 .footer{
 	padding-top: 60px;
@@ -106,6 +107,30 @@ a{
 .footer a{
 	color: #338ECF;
 	text-decoration: none;
+}
+.line{
+	width: 82%;
+	padding-top: 50px;
+	padding-bottom: 20px;
+    border-bottom: 1px solid #EEEEEE;
+}
+.line1{
+	position: absolute;
+    top: 900px;
+    left: 9%;
+}
+.line2{
+	position: absolute;
+    top: 1510px;
+    left: 9%;   
+}
+.line3{
+	position: absolute;
+    top: 2685px;
+    left: 9%;
+}
+.block_1{
+	margin-bottom: 55px;
 }
 
 
